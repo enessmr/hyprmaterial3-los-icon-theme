@@ -1,10 +1,15 @@
 [Icon Theme]
-Name=Birch
-Name[sv]=Björk
-Comment=Icon theme with a wooden look
+Name=HyprMaterial3 Icon Theme
+Name[sr]=Tema ikona HyprMaterial3
+Name[sr@cyrillic]=Тема икона HyprMaterial3
+Name[tr]=HyprMaterial3 Simge Teması
+Comment=Icon theme with a LineageOS look
 Comment[sv]=Träinspirerat ikontema
-Inherits=wood,default
-Directories=48x48/apps,48x48@2/apps48x48/mimetypes,32x32/apps,32x32@2/apps,scalable/apps,scalable/mimetypes
+Comment[tr]=LineageOS görünümüne sahip simge teması
+Comment[sr]=Tema ikona sa izgledom LineageOS-a
+Comment[sr@cyrillic]=Тема икона са изгледом LineageOS-а
+Inherits=Adwaita,default
+Directories=scalable/apps,scalable/mimetypes
 
 [scalable/apps]
 Size=48
@@ -18,31 +23,4 @@ Size=48
 Type=Scalable
 MinSize=1
 MaxSize=256
-Context=MimeTypes
-
-[32x32/apps]
-Size=32
-Type=Fixed
-Context=Applications
-
-[32x32@2/apps]
-Size=32
-Scale=2
-Type=Fixed
-Context=Applications
-
-[48x48/apps]
-Size=48
-Type=Fixed
-Context=Applications
-
-[48x48@2/apps]
-Size=48
-Scale=2
-Type=Fixed
-Context=Applications
-
-[48x48/mimetypes]
-Size=48
-Type=Fixed
 Context=MimeTypes
