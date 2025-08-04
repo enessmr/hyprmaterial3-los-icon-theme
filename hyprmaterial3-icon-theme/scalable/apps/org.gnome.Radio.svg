@@ -4,16 +4,21 @@
     id="vector">
     <defs>
         <clipPath id="clip_path_5">
-            <path d="M 0 0 L 108 0 L 108 108 L 0 108 Z"/>
+            <circle cx="54" cy="54" r="54"/>
         </clipPath>
         <clipPath id="clip_path_6">
-            <path d="M 0 0 L 108 0 L 108 108 L 0 108 Z"/>
+            <circle cx="54" cy="54" r="54"/>
         </clipPath>
     </defs>
-    <path
-        id="path"
-        d="M 0 0 L 108 0 L 108 108 L 0 108 Z"
+
+    <!-- Blue circular background -->
+    <circle
+        id="background_circle"
+        cx="54"
+        cy="54"
+        r="54"
         fill="#521e35"/>
+
     <path
         id="path_1"
         d="M 70 36 C 70 34.895 70.895 34 72 34 C 73.105 34 74 34.895 74 36 L 74 38 C 76.209 38 78 39.791 78 42 L 78 66 C 78 68.209 76.209 70 74 70 L 34 70 C 31.791 70 30 68.209 30 66 L 30 42 C 30 39.791 31.791 38 34 38 L 70 38 L 70 36 Z M 46 66 C 52.627 66 58 60.627 58 54 C 58 47.373 52.627 42 46 42 C 39.373 42 34 47.373 34 54 C 34 60.627 39.373 66 46 66 Z"

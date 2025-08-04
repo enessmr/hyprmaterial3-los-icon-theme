@@ -10,10 +10,8 @@
             <circle cx="54" cy="54" r="54"/>
         </clipPath>
     </defs>
-
-    <!-- Circle background instead of square -->
     <circle
-        id="background-circle"
+        id="path"
         cx="54"
         cy="54"
         r="54"
