@@ -1,0 +1,61 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 108 108"
+    id="vector">
+    <defs>
+        <clipPath id="clip_path">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+        <clipPath id="clip_path_1">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+        <clipPath id="clip_path_2">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+        <clipPath id="clip_path_3">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+        <clipPath id="clip_path_4">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+        <clipPath id="clip_path_5">
+            <circle cx="54" cy="54" r="54"/>
+        </clipPath>
+    </defs>
+    <g id="group">
+        <circle
+            id="background_circle"
+            clip-path="url(#clip_path)"
+            cx="54" cy="54" r="54"
+            fill="#cbdefb"/>
+        <path
+            id="path_1"
+            clip-path="url(#clip_path_1)"
+            d="M 15 108 L 78 45 L 141 108 L 15 108 Z"
+            fill="#00354a"/>
+        <path
+            id="path_2"
+            clip-path="url(#clip_path_2)"
+            d="M -18 108 L 45 45 L 108 108 L -18 108 Z"
+            fill="#0092e4"/>
+        <path
+            id="path_3"
+            clip-path="url(#clip_path_3)"
+            d="M 61 13 L 45 29 L 61 45 L 77 29 L 61 13 Z"
+            fill="#f09f38"/>
+    </g>
+    <g id="group_1">
+        <path
+            id="path_4"
+            clip-path="url(#clip_path_4)"
+            d="M 108 0 L 0 0 L 0 108 L 108 108 L 108 0 Z M 34 38 C 31.791 38 30 39.791 30 42 L 30 66 C 30 68.209 31.791 70 34 70 L 74 70 C 76.209 70 78 68.209 78 66 L 78 42 C 78 39.791 76.209 38 74 38 L 34 38 Z"
+            fill="#ffffff"
+            fill-rule="evenodd"/>
+        <path
+            id="path_5"
+            clip-path="url(#clip_path_5)"
+            d="M 28.54 28.54 M -43.46 28.54 C -43.46 13.337 -38.645 -1.481 -29.709 -13.781 C -20.773 -26.08 -8.168 -35.238 6.291 -39.936 C 20.749 -44.634 36.331 -44.634 50.789 -39.936 C 65.248 -35.238 77.853 -26.08 86.789 -13.781 C 95.725 -1.481 100.54 13.337 100.54 28.54 C 100.54 47.628 92.949 65.954 79.452 79.452 C 65.954 92.949 47.628 100.54 28.54 100.54 C 9.452 100.54 -8.874 92.949 -22.372 79.452 C -35.869 65.954 -43.46 47.628 -43.46 28.54"
+            fill="none"
+            fill-opacity="0.6"/>
+    </g>
+</svg>

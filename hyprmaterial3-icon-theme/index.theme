@@ -1,0 +1,25 @@
+[Icon Theme]
+Name=HyprMaterial3 Icon Theme
+Name[sr]=Tema ikona HyprMaterial3
+Name[sr@cyrillic]=Тема икона HyprMaterial3
+Name[tr]=HyprMaterial3 Simge Teması
+Comment=Icon theme with a LineageOS look
+Comment[tr]=LineageOS görünümüne sahip simge teması
+Comment[sr]=Tema ikona sa izgledom LineageOS-a
+Comment[sr@cyrillic]=Тема икона са изгледом LineageOS-а
+Inherits=Adwaita,default
+Directories=scalable/apps,scalable/mimetypes
+
+[scalable/apps]
+Size=48
+Type=Scalable
+MinSize=1
+MaxSize=256
+Context=Applications
+
+[scalable/mimetypes]
+Size=48
+Type=Scalable
+MinSize=1
+MaxSize=256
+Context=MimeTypes
